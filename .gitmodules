@@ -1,0 +1,4 @@
+
+[submodule "lib/luacc"]
+	path = lib/luacc
+	url = https://github.com/mihacooper/luacc.git
